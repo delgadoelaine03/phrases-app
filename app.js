@@ -20,7 +20,7 @@ const accountEmail = document.createElement('p')
 const accountPhotoURL = document.createElement('img') 
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyA95rLileVJDAHuJSjG9evlcnyt3YMoqlM',
+  apiKey: ,
   authDomain: 'movies-quotes-ad3c3.firebaseapp.com',
   projectId: 'movies-quotes-ad3c3',
   storageBucket: 'movies-quotes-ad3c3.appspot.com',
