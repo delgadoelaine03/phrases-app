@@ -1,0 +1,78 @@
+.warning {
+  font-size: 1.4rem;
+  margin-top: 3rem;
+}
+
+.phrases-container {
+  margin-top: 40px;
+}
+
+.phrases {
+  border: none;
+}
+
+.logo {
+  width: 180px; 
+  margin-top: 10px;
+}
+
+.input-field label {
+  color: #fff;
+}
+
+.input-field input[type=text]:focus + label {
+  color: #fff;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #fff;
+  box-shadow: 0 1px 0 0 #fff;
+}
+
+.input-field input[type=text].valid {
+  border-bottom: 1px solid #fff;
+  box-shadow: 0 1px 0 0 #fff;
+}
+
+.input-field input[type=text].invalid {
+  border-bottom: 1px solid #fff;
+  box-shadow: 0 1px 0 0 #fff;
+}
+
+.input-field .prefix.active {
+  color: #fff;
+}
+
+.card-panel,
+.card-content {
+  padding: 8px!important;
+}
+
+.add-phrase-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.add-phrase-form input {
+  margin-bottom: 35px;
+}
+
+.modal-account-details {
+  padding: 0px;
+}
+
+.card-content p {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.account-details img {
+  border-radius: 50%;
+  margin-top: 10px;
+  max-width: 60px;
+}
+
+.account-details p {
+  margin: 5px;
+}
